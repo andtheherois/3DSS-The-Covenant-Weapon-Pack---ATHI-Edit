@@ -1,0 +1,12 @@
+<string_table>
+	<string id="st_wpn_mp155">
+		<text>MP-155</text>
+	</string>
+	<string id="st_wpn_mp155_descr">
+		<text>The Baikal MP-155 is a semiautomatic shotgun that comes in 12 gauge, with 750 mm barrel smooth bore. In production since 2011 an is the most popular model for russian hunters. The version smuggled to the Zone came modified in factory with the 8 round magazine.
+		\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] - %c[ui_gray_2] Scopes: Most optics for the picatinny/weaver system.\n
+		%c[d_purple] - %c[ui_gray_2] Suppressor: NATO Suppressor multicaliber compatible. \n</text>
+	</string>
+</string_table>

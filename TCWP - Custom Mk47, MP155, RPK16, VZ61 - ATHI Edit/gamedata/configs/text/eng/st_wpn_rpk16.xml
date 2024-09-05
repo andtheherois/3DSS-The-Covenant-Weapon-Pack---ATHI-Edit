@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons Attachments
+-->
+
+<string_table>
+
+	<string id="st_wpn_rpk16">
+		<text>RPK-16</text>
+	</string>
+	<string id="st_wpn_rpk16_descr">
+		<text>The RPK-16 light machine gun is a response to the "Tokar-2" program where it competed against Degtyaryov's submission. In 2018, the Ministry of Defence of the Russian Federation have signed a contract concerning the procurement of the RPK-16, and is expected to take over the role of the RPK-74 in the Russian Armed Forces. The RPK-16 is chambered in 5.45?39mm which features the traditional Kalashnikov gas-operated long-stroke piston system, and shares several novel technical and ergonomic features derived from the AK-12 program. Such as a Picatinny rail on the top of the receiver for mounting various optical sights and on the bottom of the handguard to mount the Picatinny rail mounted detachable bipod instead of the fixed bipod of the RPK-74, an ergonomic pistol grip and a folding buttstock, and two main barrel lengths; a 550 mm (21.7 in) long barrel (when it is applied or configured for the light machine gun role) and a 370 mm (14.6 in) short barrel (when it is applied or configured for the assault rifle role). Its design enables it to have an interchangeable barrels that can easily be removed, and the ability to quickly attach a detachable suppressor. It has a combat weight of 6 kg (13.23 lb), a full-length of 1,076 mm (42.4 in), a cyclic rate of fire of 700 rounds per minute, an accuracy range of 800 m (870 yd). It primarily uses a 95-round drum magazine and is backwards compatible with box magazines from the AK-74, AK-12 and RPK-74.</text>
+	</string>
+	
+</string_table>

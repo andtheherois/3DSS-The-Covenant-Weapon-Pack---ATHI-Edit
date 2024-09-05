@@ -1,0 +1,12 @@
+<string_table>
+	<string id="st_wpn_mk47">
+		<text>CMMG MK47 MUTANT</text>
+	</string>
+	<string id="st_wpn_mk47_descr">
+		<text>The CMMG Mk47 Mutant is an American-made semi-automatic rifle chambered in 7.62×39mm caliber, made by CMMG Inc. It can accept all types of Kalashnikov pattern magazines, including steel, polymer and drum magazines. In 2015, CMMG released its first production Mk47s to stores throughout the US. According to CMMG Production Manager Tyson Bradshaw, he mentioned that CMMG made the rifle due to the need of "consumers to have a reliable, U.S.-made rifle that could properly handle the dimensions of the 7.62x39 mm cartridge. To do this properly, it required CMMG to build the rifle around the caliber. Using AK magazines was decided because they are the most reliable magazines. The Mk47 Mutant has an AR-10-sized bolt carrier, which was enlarged, with a CMMG RKM KeyMod handguard and an upper/lower receiver manufactured from 7075-T6 billet aluminum. The rifle has an AR-15-based pistol grip, safety selector, trigger group and a buffer tube. It was influenced by the CMMG Mk3 assault rifles. The Mk47 relies on a direct impingement gas system.
+		\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] - %c[ui_gray_2] Scopes: Most optics for the picatinny/weaver system.\n
+		%c[d_purple] - %c[ui_gray_2] Suppressor: NATO Suppressor multicaliber compatible. \n</text>
+	</string>
+</string_table>
