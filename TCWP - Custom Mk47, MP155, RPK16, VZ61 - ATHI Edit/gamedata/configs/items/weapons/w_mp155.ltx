@@ -67,7 +67,7 @@
         ammo_mag_size               = 8
         startup_ammo                = 10
         
-		scopes 					    = ac10632, acog, c-more, eot, t12, trihawk, monstrum
+		scopes 					    = ac10632, acog, c-more, eot, t12, trihawk, monstrum, vulcan
         scope_status                = 0
         scope_zoom_factor           = 0
 		
@@ -612,4 +612,29 @@ item_visual                	= anomaly_weapons\wpn_mp155\wpn_mp155_trihawk_hud.og
         aim_hud_offset_pos_16x9          = -0.053965, -0.002297, -0.071995
         aim_hud_offset_rot               = -0.016837, -0.004339, 0.011655
         aim_hud_offset_rot_16x9          = -0.016837, -0.004339, 0.011655
+;--------------------------------------------------------------------------------
+[wpn_mp155_vulcan]:wpn_mp155
+
+inv_weight                  = 4.02
+
+parent_section              = wpn_mp155
+
+hud				= wpn_mp155_vulcan_hud
+
+1icon_layer			    = vulcan
+1icon_layer_x			= 90
+1icon_layer_y			= -2
+
+visual                      = anomaly_weapons\wpn_mp155\wpn_mp155_world_acog.ogf
+
+scope_status                                       = 1
+scope_zoom_factor                                  = 35
+zoom_rotate_time                                   = 0.2
+
+[wpn_mp155_vulcan_hud]:wpn_mp155_hud
+item_visual                	= anomaly_weapons\wpn_mp155\wpn_mp155_vulcan_hud.ogf
+        aim_hud_offset_pos               = -0.054448, -0.002243, -0.042441
+        aim_hud_offset_pos_16x9          = -0.054448, -0.002243, -0.042441
+        aim_hud_offset_rot               = -0.01646, -0.004248, 0.011655
+        aim_hud_offset_rot_16x9          = -0.01646, -0.004248, 0.011655
 ;--------------------------------------------------------------------------------
